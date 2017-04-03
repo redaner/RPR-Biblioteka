@@ -1,0 +1,47 @@
+c:\users\rasim\documents\visual studio 2015\Projects\RPRZadaca1\RPRZadaca1\obj\Debug\RPRZadaca1.csprojResolveAssemblyReference.cache
+C:\Users\Rasim\Documents\Visual Studio 2015\Projects\RPRZadaca1\RPRZadaca1\bin\Debug\Datum.Biblioteka.dll
+C:\Users\Rasim\Documents\Visual Studio 2015\Projects\RPRZadaca1\RPRZadaca1\bin\Debug\Datum.Biblioteka.pdb
+C:\Users\Rasim\Documents\Visual Studio 2015\Projects\RPRZadaca1\RPRZadaca1\obj\Debug\RPRZadaca1.Pocetni.resources
+C:\Users\Rasim\Documents\Visual Studio 2015\Projects\RPRZadaca1\RPRZadaca1\obj\Debug\RPRZadaca1.csproj.GenerateResource.Cache
+C:\Users\Rasim\Documents\Visual Studio 2015\Projects\RPRZadaca1\RPRZadaca1\obj\Debug\RPRZadaca1.RegistracijaClana.resources
+C:\Users\Rasim\Documents\Visual Studio 2015\Projects\RPRZadaca1\RPRZadaca1\obj\Debug\RPRZadaca1.FormaClan.resources
+C:\Users\Rasim\Documents\Visual Studio 2015\Projects\RPRZadaca1\RPRZadaca1\obj\Debug\RPRZadaca1.RegistracijaUposlenog.resources
+C:\Users\Rasim\Documents\Visual Studio 2015\Projects\RPRZadaca1\RPRZadaca1\obj\Debug\RPRZadaca1.UbacivanjeSlike.resources
+C:\Users\Rasim\Documents\Visual Studio 2015\Projects\RPRZadaca1\RPRZadaca1\obj\Debug\RPRZadaca1.RegistracijaKnjige.resources
+C:\Users\Rasim\Documents\Visual Studio 2015\Projects\RPRZadaca1\RPRZadaca1\obj\Debug\RPRZadaca1.Pretraga.resources
+C:\Users\Rasim\Documents\Visual Studio 2015\Projects\RPRZadaca1\RPRZadaca1\obj\Debug\RPRZadaca1.FormaUposleni.resources
+C:\Users\Rasim\Documents\Visual Studio 2015\Projects\RPRZadaca1\RPRZadaca1\obj\Debug\RPRZadaca1.Pregled.resources
+C:\Users\Rasim\Documents\Visual Studio 2015\Projects\RPRZadaca1\RPRZadaca1\obj\Debug\RPRZadaca1.Stanje.resources
+C:\Users\Rasim\Documents\Visual Studio 2015\Projects\RPRZadaca1\RPRZadaca1\obj\Debug\RPRZadaca1.Admin.resources
+C:\Users\Rasim\Documents\Visual Studio 2015\Projects\RPRZadaca1\RPRZadaca1\bin\Debug\RPRZadaca2.exe.config
+C:\Users\Rasim\Documents\Visual Studio 2015\Projects\RPRZadaca1\RPRZadaca1\bin\Debug\RPRZadaca2.exe
+C:\Users\Rasim\Documents\Visual Studio 2015\Projects\RPRZadaca1\RPRZadaca1\bin\Debug\RPRZadaca2.pdb
+C:\Users\Rasim\Documents\Visual Studio 2015\Projects\RPRZadaca1\RPRZadaca1\obj\Debug\RPRZadaca2.Properties.Resources.resources
+C:\Users\Rasim\Documents\Visual Studio 2015\Projects\RPRZadaca1\RPRZadaca1\obj\Debug\RPRZadaca2.exe
+C:\Users\Rasim\Documents\Visual Studio 2015\Projects\RPRZadaca1\RPRZadaca1\obj\Debug\RPRZadaca2.pdb
+C:\Users\Rasim\Desktop\RPRZadaca1\RPRZadaca1\bin\Debug\RPRZadaca2.exe.config
+C:\Users\Rasim\Desktop\RPRZadaca1\RPRZadaca1\obj\Debug\RPRZadaca2.exe
+C:\Users\Rasim\Desktop\RPRZadaca1\RPRZadaca1\obj\Debug\RPRZadaca2.pdb
+C:\Users\Rasim\Desktop\RPRZadaca2\RPRZadaca1\bin\Debug\RPRZadaca2.exe.config
+C:\Users\Rasim\Desktop\RPRZadaca2\RPRZadaca1\obj\Debug\RPRZadaca2.exe
+C:\Users\Rasim\Desktop\RPRZadaca2\RPRZadaca1\obj\Debug\RPRZadaca2.pdb
+C:\Users\Rasim\Desktop\RPRZadaca2\RPRZadaca1\bin\Debug\RPRZadaca2.exe
+C:\Users\Rasim\Desktop\RPRZadaca2\RPRZadaca1\bin\Debug\RPRZadaca2.pdb
+C:\Users\Rasim\Desktop\RPRZadaca2\RPRZadaca1\bin\Debug\Datum.Biblioteka.pdb
+C:\Users\Rasim\Desktop\RPRZadaca2\RPRZadaca1\obj\Debug\RPRZadaca1.csprojResolveAssemblyReference.cache
+C:\Users\Rasim\Desktop\RPRZadaca2\RPRZadaca1\obj\Debug\RPRZadaca1.Admin.resources
+C:\Users\Rasim\Desktop\RPRZadaca2\RPRZadaca1\obj\Debug\RPRZadaca1.FormaClan.resources
+C:\Users\Rasim\Desktop\RPRZadaca2\RPRZadaca1\obj\Debug\RPRZadaca1.FormaUposleni.resources
+C:\Users\Rasim\Desktop\RPRZadaca2\RPRZadaca1\obj\Debug\RPRZadaca1.Pocetni.resources
+C:\Users\Rasim\Desktop\RPRZadaca2\RPRZadaca1\obj\Debug\RPRZadaca1.Pretraga.resources
+C:\Users\Rasim\Desktop\RPRZadaca2\RPRZadaca1\obj\Debug\RPRZadaca1.Pregled.resources
+C:\Users\Rasim\Desktop\RPRZadaca2\RPRZadaca1\obj\Debug\RPRZadaca2.Properties.Resources.resources
+C:\Users\Rasim\Desktop\RPRZadaca2\RPRZadaca1\obj\Debug\RPRZadaca1.RegistracijaClana.resources
+C:\Users\Rasim\Desktop\RPRZadaca2\RPRZadaca1\obj\Debug\RPRZadaca1.RegistracijaKnjige.resources
+C:\Users\Rasim\Desktop\RPRZadaca2\RPRZadaca1\obj\Debug\RPRZadaca1.RegistracijaUposlenog.resources
+C:\Users\Rasim\Desktop\RPRZadaca2\RPRZadaca1\obj\Debug\RPRZadaca1.Stanje.resources
+C:\Users\Rasim\Desktop\RPRZadaca2\RPRZadaca1\obj\Debug\RPRZadaca1.UbacivanjeSlike.resources
+C:\Users\Rasim\Desktop\RPRZadaca2\RPRZadaca1\obj\Debug\RPRZadaca1.csproj.GenerateResource.Cache
+C:\Users\Rasim\Desktop\RPRZadaca2\RPRZadaca1\obj\Debug\RPRZadaca2.DataGridUposleni.resources
+C:\Users\Rasim\Desktop\RPRZadaca2\RPRZadaca1\obj\Debug\RPRZadaca2.DataGridKnjige.resources
+C:\Users\Rasim\RPR-Biblioteka\RPR-Biblioteka\RPRZadaca1\bin\Debug\RPRBiblioteka.exe.config
